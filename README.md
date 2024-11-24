@@ -3,10 +3,7 @@
 The proposed 3D modification of the StyleGANv2 (original paper: https://arxiv.org/abs/1912.04958 and implementation by https://github.com/lucidrains/stylegan2-pytorch) allows the generation of single-channel 3D medical imaging data. 
 
 Paper and citation: 
-Generative Modeling of the Circle of Willis Using 3D-StyleGAN
-Orhun Utku Aydin, Adam Hilbert, Alexander Koch, Felix Lohrke, Jana Rieger, Satoru Tanioka, Dietmar Frey
-medRxiv 2024.04.02.24305197;
-doi: https://doi.org/10.1101/2024.04.02.24305197
+Aydin, Orhun Utku, Adam Hilbert, Alexander Koch, Felix Lohrke, Jana Rieger, Satoru Tanioka, and Dietmar Frey. “Generative Modeling of the Circle of Willis Using 3D-StyleGAN.” NeuroImage, November 23, 2024, 120936. https://doi.org/10.1016/j.neuroimage.2024.120936.
 
 For a detailed overview of our model's specifications and performance, please see our [model card](model-card.md).
 
